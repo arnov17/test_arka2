@@ -1,6 +1,7 @@
 # test_arka2
 
 pengerjaan test ini, mengunakan bahasa javascript yakni No. 1 sampai 5.
+
 pengerjaan No. 1
 - mengunakan typeof u/ mengetahui type inputan berupa angka
 - mengunakan looping
