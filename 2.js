@@ -3,7 +3,7 @@ function cek_kata (kata) {
     let jumlahkata = split.length;
     let nonAngka = [];
     for(i = 0; i < split.length; i ++) {
-        if(/[a-z]/.test(split[i]) === true) {
+        if(/[0-9]/.test(split[i]) === false) {
             nonAngka.push(split[i])
         }
     }
